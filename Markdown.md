@@ -16,6 +16,7 @@
 6. [CÓDIGO](#código)
 7. [LISTAS](#listas)
 8. [IMÁGENES](#imágenes)
+9. [TABLAS](#tablas)
 
 ### INTRODUCCIÓN
 Markdown es un lenguaje de marcado creado por John Gruber.
